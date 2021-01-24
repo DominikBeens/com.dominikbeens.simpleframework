@@ -1,6 +1,5 @@
 {
   "name": "com.dominikbeens.simpleframework",
-  "PackageName": "https://github.com/DominikBeens/com.dominikbeens.simpleframework.git",
   "version": "0.1.0",
   "displayName": "Simple Framework",
   "description": "Simple Unity framework to ease prototype/gamejam development",
